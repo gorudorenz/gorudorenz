@@ -1,4 +1,4 @@
-# 👋 こんにちは！バックエンド・インフラエンジニアです
+# 👋 こんにちは！ゴールドレンズです！
 
 > Python / Docker / Kubernetes を軸に、エッジAI・リアルタイムWebアプリ・インフラ自動化まで幅広く開発しています。
 
@@ -7,9 +7,8 @@
 ## 🧑‍💻 About Me
 
 - 🔭 バックエンド開発・コンテナ基盤の構築・運用を担当してきました
-- 🌱 現在はクラウドネイティブなアーキテクチャと MLOps に興味を持って学習中です
-- 💬 Python / Docker / Kubernetes について気軽に話しかけてください
-- 📫 連絡先: your-email@example.com
+- 🌱 ラズパイが好きで中学3年生から触ってます！
+- 📫 連絡先: gorudorenz@icloud.com
 - 🌍 拠点: 千葉県
 
 ---
@@ -152,8 +151,6 @@
 
 ## 📝 現在の関心 / 学習中
 
-- [ ] Kubernetes の運用スキル深化（Helm, Argo CD）
-- [ ] Python による ML パイプライン（MLflow, Kubeflow）
 - [ ] Go 言語の習得
 - [ ] クラウド資格取得（AWS / GCP）
 
