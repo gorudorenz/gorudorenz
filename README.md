@@ -1,3 +1,4 @@
+
 # 👋 こんにちは！ゴールドレンズです！
 
 > Python / Docker / Kubernetes を軸に、エッジAI・リアルタイムWebアプリ・インフラ自動化まで幅広く開発しています。
@@ -46,7 +47,6 @@
 ---
 
 ## 🚀 Projects
-
 ### 🚃 [JR東日本 リアルタイム列車マップ](https://github.com/yourusername/jr-east-realtime-map)
 > 公共交通オープンデータ（ODPT API）を使ったリアルタイム列車位置ビジュアライザー
 
@@ -57,6 +57,8 @@
   - `atan2` による進行方向角度計算でアイコンを列車の向きに動的回転
   - 路線ごとのカラーコードを `DivIcon` に動的反映
   - 30秒ごとの自動更新で常に最新の列車位置を表示
+<img width="4284" height="1486" alt="IMG_7115" src="https://github.com/user-attachments/assets/1d42f649-ca86-4fd2-a2e5-f254bfd8e04d" />
+
 
 ---
 
@@ -141,6 +143,7 @@
   - `subprocess.run()` の同期実行 → Bot全体がフリーズ → `asyncio.create_subprocess_exec()` に全面移行して安定化
   - 並列モデル実行によるメモリ不足（Raspberry Pi 4）→ 直列処理＋インターバル方式で解消
   - DeepSeek-R の推論ログが投票解析を破壊 → 専用正規表現パーサーで `Answer:` / `Reason:` のみ抽出
+<img width="4284" height="5712" alt="IMG_7595" src="https://github.com/user-attachments/assets/e50bf37e-e8c8-43c1-a2df-a9b422699ab1" />
 
 ## 📊 GitHub Stats
 
